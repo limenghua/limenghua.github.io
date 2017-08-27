@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="rd_kafka_message_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structrd__kafka__message__t.html",tooltip="A Kafka message as returned by the rd_kafka_consume*() family of functions as well as provided to the..."];
+}
