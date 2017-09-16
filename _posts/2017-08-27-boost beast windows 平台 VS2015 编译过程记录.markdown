@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "websocket ¿â "boost.beast" windows Æ½Ì¨ VS2015 ±àÒë¹ı³Ì¼ÇÂ¼"
+title:  "boost.beast VS2015 ç¼–è¯‘"
 date: 2017-08-27 21:06:26 +0800
 categories: jekyll
 ---
-.
 
-### websocket ¿â "boost.beast" windows Æ½Ì¨ VS2015 ±àÒë¹ı³Ì¼ÇÂ¼:
+
+
+
+### websocket åº“ "boost.beast" windows å¹³å° VS2015 ç¼–è¯‘è¿‡ç¨‹è®°å½•:
 
  * [http://blog.csdn.net/MerryLee/article/details/77622186) ](http://blog.csdn.net/MerryLee/article/details/77622186) 
