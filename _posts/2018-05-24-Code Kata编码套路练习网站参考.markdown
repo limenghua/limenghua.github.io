@@ -5,15 +5,14 @@ date: 2018-05-24 21:06:26 +0800
 categories: jekyll
 ---
 
-# Code Kata编码套路练习网站参考
 
 帮助编程学习者进行套路练习的网站有很多。知道这类编程练习网站之后，我做了一些搜索，收藏了一些国外程序员推荐的站点，在这里推荐给大家。
 
- * Codewars
- * codeforces
- * HackerRank
- * Project Euler
- * LeetCode
+ * [Codewars](http://www.codewars.com/)
+ * [codeforces](http://codeforces.com/)
+ * [HackerRank](https://www.hackerrank.com/)
+ * [Project Euler](https://projecteuler.net/archives)
+ * [LeetCode](http://leetcode.com/)
 
 SPOJ：Quora上的朋友说，这个网站的难度最高。
 
